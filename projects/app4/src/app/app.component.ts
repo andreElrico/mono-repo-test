@@ -4,7 +4,7 @@ import { Lib1, LIB1_CONST, Lib1Service } from '../../../lib1/src/public-api';
 @Component({
   selector: 'app-root',
   template: `
-  <lib-lib1></lib-lib1>
+    <lib-lib1></lib-lib1>
   `,
 })
 export class AppComponent {
